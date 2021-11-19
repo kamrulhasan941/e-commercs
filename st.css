@@ -1,0 +1,55 @@
+.riyad{
+    background-color:#fceae8;
+    border-radius: 10px;
+}
+.price{
+    color: tomato;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.buy-now-bottom{
+    background-image: linear-gradient(to bottom,#ff589b 0%,#ff136f 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.cat1{
+    background-color: orange;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat2{
+    background-color: tomato;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+color: white;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+ .card-footer{
+     background-color: white;  
+     border-top: none;
+}
+#subcribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
